@@ -1,5 +1,5 @@
 # NodeJs base API project
-This project has the minimum structure to create a new NodeJs RESTful web api. With Jwt and Atlas MongoDb
+This project has the minimum structure to create a new NodeJs RESTful web api, with Jwt and Atlas MongoDb
 
 ## How to use it
 * Clone this repo
